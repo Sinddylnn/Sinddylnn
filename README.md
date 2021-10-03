@@ -1,7 +1,7 @@
 <body>
 <header>
 <h2 align="middle">Olá mundo! Eu sou a Sinddy Lorrany 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://emoji.gg/assets/emoji/1896-pastel-verified.png" width="19">
 </h2>
 <br>
 <div>
