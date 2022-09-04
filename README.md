@@ -18,16 +18,7 @@
  
    ##
  
-<div> 
-  <a href="https://www.instagram.com/sinddy_lnn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/sinddylnn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-##
- 
-<p align="center"> 
- Total de Pessoas que tiveram coragem de entrar aqui: :flushed: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/sinddylnn/count.svg" />
+<div>
  
   ![Snake animation](https://github.com/Sinddylnn/Sinddylnn/blob/output/github-contribution-grid-snake.svg)
   
