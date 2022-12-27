@@ -40,7 +40,6 @@ const stebs = {
 </details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:sinddylnn@gmail.com)
-[![Twitter: sinddylnn](https://img.shields.io/twitter/follow/sinddy_lnn?style=social)](https://twitter.com/sinddy_lnn)
 [![Linkedin: sinddylnn](https://img.shields.io/badge/-sinddylnn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinddylnn/)](https://www.linkedin.com/in/sinddylnn/)
 [![GitHub: sinddylnn](https://img.shields.io/github/followers/sinddylnn?label=follow&style=social)](https://github.com/sinddylnn)
 </div>
